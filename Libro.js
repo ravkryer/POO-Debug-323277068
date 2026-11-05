@@ -12,4 +12,4 @@ class Libro {
 
 let libro1 = new Libro("El principito", "Antoine");
 
-libro1.mostrarInfo();
+libro1.mostrarInformacion();
