@@ -13,4 +13,4 @@ class Videojuego {
 let juego1 = new Videojuego("Minecraft", 500);
 
 console.log(juego1.nombre);
-console.log(juego1.precioo);
+console.log(juego1.precio);
